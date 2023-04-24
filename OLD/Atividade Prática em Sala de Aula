@@ -1,0 +1,28 @@
+
+Atividade Prática em Sala de Aula
+Python para Análise de Dados em Big Data.
+1. Use a função lambda para mapear (map) elementos de uma lista e calcular o dobro de cada um
+desses elementos. Exemplo:
+Entrada: [2, 3, 4, 5, 18]
+Saída: [4, 6, 8, 10, 36]
+2. Use a função lambda para filtrar (filter) os números pares dos elementos de uma lista. Exemplo:
+Entrada: [1, 2, 3, 7, 5, 18]
+Saída: [2, 18]
+3. Gere uma lista de 1 até 20 que filtre (filter) juntamente com o lambda os números múltiplos de 3.
+Entrada: lista de 1 até 20
+Saída: [3, 6, 9, 12, 15, 18]
+4. Expressões Regulares: Leia um arquivo txt com as palavras abaixo e imprima quantas palavras com
+as seguintes regras no texto lido:
+Texto: a ab ba baa bab bba baa bbb aaa bab baaa abbb baabaa bbbbab
+baa
+Regras:
+a. Tem uma (1) letra “b” no início da string e nenhuma ou várias letras “b”.
+b. A string inicia com nenhuma ou várias letras “a” e termina com um (1) b.
+5. Expressões Regulares: Leia um arquivo txt com os e-mails abaixo e imprima os gmails e a
+quantidade desses e-mails.
+Email’s:
+zacarias@gmail.com
+fulano.oli@yahoo.com
+jose.costa@gmail.com
+juca@gmail.com
+feliciana@outlook.com
