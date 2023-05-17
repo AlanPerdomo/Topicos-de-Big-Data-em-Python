@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 array = []
-for num in range (5):
+for num in range(5):
     index = random.randint(0, 1000)
     array.append(index)
 
